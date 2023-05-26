@@ -1,3 +1,0 @@
-This branch contains the main code of the fist prototype of the NigerianFactCheck bot.
-
-We can't upload the models to github because they are so heavy.
